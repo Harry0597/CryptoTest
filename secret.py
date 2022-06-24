@@ -1,1 +1,1 @@
-flag = b"flag{JUST_A_TEST}"
+flag = b"flag{JUST_A_FAKE_FLAG}"
